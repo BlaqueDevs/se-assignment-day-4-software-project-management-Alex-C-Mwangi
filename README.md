@@ -50,6 +50,15 @@ b)Projects with strict Regulations eg A medical software project
 c)Projects where predictability is essential eg Manufacturing Software systems.
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+a)Conducting code reviewa with others to find mistakes and improve code quality
+b)Using automated testing tools to improve efficiency
+c)Recording good documentation through out the development process
+
+Why its important to maintain high standards
+a)High quality software is more reliable and and there's less risk of crashes
+b)To build and aintain a reputation with satisfied clients which is essential for business success
+c)To ensure little to no security vulnerabilities
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
