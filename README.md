@@ -60,10 +60,40 @@ b)To build and aintain a reputation with satisfied clients which is essential fo
 c)To ensure little to no security vulnerabilities
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+a)It gives everyone involved in the project clarity and undertanding of the project's goals.
+b)It helps prevent scope creep which is an uncontrolled addition of the project's scope
+c)A well defined scope helps project managers to allocate resources efficiently.
+
+A work Breakdwon Structure(WBS) is a hierarchical breakdown of the whole scope of work that the project team has to complete to meet the projects goals.
+Its useful beacause: a)It breaks down large complex projects into smaller easier to manage tasks. b)It aids project managers in making budget and time estimates of the project 
+c)It makes assigning tasks to team members clear and understandable.
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+a)It brings effective commuication between the team and client as it gives an understanding of the projects timeline 
+b)A clear schedule helps identify potential delays and dependencies during development
+c)A shedule provides a base for tracking the projects progress and avoid unnecessary deviations.
+
+Gantt Charts provide a visual representation of the steps of the project in a clear manner, They help show the relationships between tasks to know which tasks need to be finished before others.
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+My software (The Mental Wellness Hub) aims to address the issue of limited mental healthcare and healthy spaces to get required help due to reasons such as geographical locations, poor comunication and inconsistensy in it just to name a few. These problems are significant as they prevent people from getting the help they need when they need it and avoiding cases where "Its too late" is what is beng said.
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+a)It helps focus the project on the right problem to make the software meet the needs of the clients
+A well defined problem ensures the whole team is working towards the same goals and avoid confusion in later stages.
+A clear problem helps the design team create an effective user interface for the clients to make it suitable enogh to use.
+A clear defined problems gives a foundation for testing whether the project is a success.
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+It gives professionals a platform to help their patients and it brings togethor patients to help each other get through their hardships eliminating the feeling of aloneness.
+
 ## 11. What are the main features or functionalities that make your software stand out?
+Integraton with wearale devices for tracking data like sleep, heart rate or alcohol levels
+Flexibility of the software to be used by mobiles, lptops and other devices
+24 hour access from the internet.
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+The global health market is experiencing significant growth driven by increasing awareness of mental health and rising cases of suicide and mental health disorders.
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+It would aid in identifying and focusing on the main features like accessibility that are going to meet the needs of our clients and building strong community features to give the software awareness and spread.
